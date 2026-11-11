@@ -1,6 +1,6 @@
 ### Olá, eu sou o Heitor! 👋
 
-Nutricionista (CRN-4 76.523) apaixonado por tecnologia, atualmente cursando **Análise e Desenvolvimento de Sistemas (ADS)** e focado na transição para o desenvolvimento de software. Criador do **Cyberlofi Lab** — um ecossistema de ferramentas web e automações voltadas para criadores e fluxos com IA.
+Nutricionista (CRN-3 76.523) apaixonado por tecnologia, atualmente cursando **Análise e Desenvolvimento de Sistemas (ADS)** e focado na transição para o desenvolvimento de software. Criador do **Cyberlofi Lab** — um ecossistema de ferramentas web e automações voltadas para criadores e fluxos com IA.
 
 ---
 
